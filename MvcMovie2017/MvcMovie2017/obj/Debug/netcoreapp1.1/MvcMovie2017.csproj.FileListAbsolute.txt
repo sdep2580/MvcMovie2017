@@ -1,0 +1,9 @@
+c:\users\sdep4647_2\documents\visual studio 2017\Projects\MvcMovie2017\MvcMovie2017\bin\Debug\netcoreapp1.1\MvcMovie2017.deps.json
+c:\users\sdep4647_2\documents\visual studio 2017\Projects\MvcMovie2017\MvcMovie2017\bin\Debug\netcoreapp1.1\MvcMovie2017.runtimeconfig.json
+c:\users\sdep4647_2\documents\visual studio 2017\Projects\MvcMovie2017\MvcMovie2017\bin\Debug\netcoreapp1.1\MvcMovie2017.runtimeconfig.dev.json
+c:\users\sdep4647_2\documents\visual studio 2017\Projects\MvcMovie2017\MvcMovie2017\bin\Debug\netcoreapp1.1\MvcMovie2017.dll
+c:\users\sdep4647_2\documents\visual studio 2017\Projects\MvcMovie2017\MvcMovie2017\bin\Debug\netcoreapp1.1\MvcMovie2017.pdb
+c:\users\sdep4647_2\documents\visual studio 2017\Projects\MvcMovie2017\MvcMovie2017\obj\Debug\netcoreapp1.1\MvcMovie2017.AssemblyInfo.cs
+c:\users\sdep4647_2\documents\visual studio 2017\Projects\MvcMovie2017\MvcMovie2017\obj\Debug\netcoreapp1.1\MvcMovie2017.dll
+c:\users\sdep4647_2\documents\visual studio 2017\Projects\MvcMovie2017\MvcMovie2017\obj\Debug\netcoreapp1.1\MvcMovie2017.pdb
+C:\Users\sdep4647_2\Documents\Visual Studio 2017\Projects\MvcMovie2017\MvcMovie2017\obj\Debug\netcoreapp1.1\MvcMovie2017.csprojResolveAssemblyReference.cache
